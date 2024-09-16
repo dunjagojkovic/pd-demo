@@ -3,6 +3,7 @@ import { Navigation } from "swiper/modules";
 import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
 import "swiper/css";
+import 'swiper/css/navigation';
 import { CarouselItem } from "./Craousel.types";
 
 type CarouselProps = {
